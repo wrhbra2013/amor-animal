@@ -1,0 +1,7 @@
+FICHA TÉCNICA
+
+Linguagem: Python
+Framework:
+Banco de dados: sqlite3
+
+REQUISITOS POR AMBIENTE
